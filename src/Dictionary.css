@@ -1,0 +1,12 @@
+form {
+  text-align: center;
+}
+
+input {
+  border-radius: 30px;
+  height: 40px;
+  max-width: auto;
+  padding: 30px;
+  font-size: large;
+  font-weight: 15px;
+}
