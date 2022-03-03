@@ -9,4 +9,6 @@ input {
   padding: 30px;
   font-size: large;
   font-weight: 15px;
+  margin-bottom: 30px;
+  border-width: thin;
 }
