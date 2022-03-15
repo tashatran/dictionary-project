@@ -1,14 +1,26 @@
-form {
-  text-align: center;
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 20px;
 }
 
-input {
-  border-radius: 30px;
-  height: 40px;
-  max-width: auto;
+.Dictionary section {
+  background-color: white;
   padding: 30px;
-  font-size: large;
-  font-weight: 15px;
-  margin-bottom: 30px;
-  border-width: thin;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgba(0 0 0/ 10%);
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  color: #333;
+}
+
+.Dictionary .hint {
+  font-size: 11px;
+  margin-top: 5px;
 }
