@@ -9,13 +9,21 @@ export default function App() {
         <Dictionary defaultKeyword="beer" />
         <footer className="App-footer">
           <small>
-            Coded by{" "}
+            Coded by Tasha and is open-sourced on{" "}
             <a
               href="https://github.com/tashatran/dictionary-project"
               target="_blank"
               rel="noreferrer"
             >
-              Tasha
+              Github
+            </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://sad-lovelace-c9452c.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
             </a>
           </small>
         </footer>
